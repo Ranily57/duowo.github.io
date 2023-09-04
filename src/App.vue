@@ -29,7 +29,7 @@ var themeLight = "dark:hidden visible flex justify-center items-center me-12";
       <SimpleText 
         name="D U O W O" 
         first="Ranily"
-        firstGH="https://github.com/Ranily57"
+        firstGH="https://Ranily57.github.io"
         second="Ashrilys"
         secondGH="https://github.com/Ashrilys"  
       />
